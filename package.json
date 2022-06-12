@@ -1,6 +1,6 @@
 {
   "name": "userlogin",
-  "homepage": "https://SasankaRoy.github.io./Task_users",
+  "homepage": "https://SasankaRoy.github.io./my-task",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +8,7 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "framer-motion": "^6.3.11",
+    "gh-pages": "^4.0.0",
     "node": "^17.7.2",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
